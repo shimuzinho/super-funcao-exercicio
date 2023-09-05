@@ -16,4 +16,4 @@ let ordemAlfabetica = (nomeA, nomeB) => {
   return 0
 }
 
-console.log(nomes.sort(ordemAlfabetica))
+console.log(nomes.sort(ordemAlfabetica))//ekrfgergtwuekrfhtuowe5rh
